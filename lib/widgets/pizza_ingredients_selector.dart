@@ -1,8 +1,8 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
-import 'package:pizza_order_flutter/data/ingredientModel.dart';
+import 'package:pizza_order_flutter/data/ingredient_model.dart';
 
-import 'pizzaingredientsForeGroundP.dart';
+import 'pizza_ingredients_foreground_painter.dart';
 
 class PizzaIngredientSelector extends StatefulWidget {
   final Function onChange;

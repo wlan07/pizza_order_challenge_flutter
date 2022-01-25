@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'PizzaControlsClipper.dart';
-import 'bottombuttons.dart';
-import 'ingredientQSelector.dart';
+import 'Pizza_controls_clipper.dart';
+import 'bottom_buttons.dart';
+import 'ingredient_q_selector.dart';
 import 'pizza_ingredients_selector.dart';
 import 'pizza_taille_selector.dart';
 

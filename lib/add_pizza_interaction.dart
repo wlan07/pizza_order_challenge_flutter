@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'data/ingredientModel.dart';
-import 'widgets/ingredientsView.dart';
+import 'data/ingredient_model.dart';
+import 'widgets/ingredients_view.dart';
 import 'widgets/pizza_view.dart';
-import 'widgets/pizzacontrol.dart';
-import 'widgets/topbar.dart';
+import 'widgets/pizza_control.dart';
+import 'widgets/top_bar.dart';
 
 class PizzaOrder extends StatefulWidget {
   const PizzaOrder({Key key}) : super(key: key);

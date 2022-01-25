@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'dart:math' hide log;
 import 'package:flutter/material.dart';
-import 'package:pizza_order_flutter/data/ingredientModel.dart';
+import 'package:pizza_order_flutter/data/ingredient_model.dart';
 
 const double SCALEFACTOR = 0.15;
 

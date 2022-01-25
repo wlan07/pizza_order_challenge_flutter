@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'dart:math' hide log;
 
-import 'package:pizza_order_flutter/data/ingredientModel.dart';
+import 'package:pizza_order_flutter/data/ingredient_model.dart';
 import 'package:flutter/material.dart';
 
 class IngredientsView extends StatefulWidget {

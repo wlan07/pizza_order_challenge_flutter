@@ -1,7 +1,7 @@
 import 'dart:developer';
 import 'package:flutter/material.dart';
 
-import 'pizzatailleSelectorforegroundPainter..dart';
+import 'pizza_taille_selector_foreground_painter.dart';
 
 class PizzaTailleSelector extends StatefulWidget {
   const PizzaTailleSelector({Key key, this.onTailleChanged}) : super(key: key);
